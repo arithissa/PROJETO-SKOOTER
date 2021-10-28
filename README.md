@@ -5,9 +5,9 @@ Versão do jogo Skooter desenvolvido em linguagem orientada a objetos Java por A
 NetBeans IDE 8.2.
 
 ## 2. Sobre o funcionamento do jogo
-A dinâmica do jogo é semelhante às 4 primeiras fases do jogo Skooter original, que tem por objetivo resolver os puzzles propostos, coletando itens e desviando dos inimigos pelo caminho. O jogo é ganho quando o jogador passa por todas as fases implementadas.
+A dinâmica do jogo é semelhante às 4 primeiras fases do jogo Skooter original, que tem por objetivo resolver os *puzzles* propostos, coletando itens e desviando dos inimigos pelo caminho. O jogo é ganho quando o jogador passa por todas as fases implementadas.
 
-###### 2.1. Controles
+**2.1. Controles**
 Seta para cima: movimenta o herói para cima (se possível).
 Seta para baixo: movimenta o herói para baixo (se possível).
 Seta para a direita: movimenta o herói para a direita (se possível).
@@ -15,7 +15,7 @@ Seta para a esquerda: movimenta o herói para a esquerda (se possível).
 Barra de espaço: explode um bloco verde diante do herói.
 F: desiste do jogo, game over automático.
 
-###### 2.2. Observações
+**2.2. Observações**
 
 **2.2.1.** Apenas os blocos verdes, independentemente do desenho, podem ser
 “explodidos” pelo herói.
