@@ -1,5 +1,5 @@
 # PROJETO-SKOOTER
-Versão do jogo Skooter desenvolvido em linguagem orientada a objetos Java por Aríthissa Vitória e João Pedro de Andrade
+Versão do jogo Skooter desenvolvido em linguagem orientada a objetos Java por Aríthissa Vitória e João Pedro de Andrade.
 
 ## 1. Plataforma de Desenvolvimento
 NetBeans IDE 8.2.
